@@ -17,9 +17,9 @@ Fournir aux Dungeon Masters un **atelier numérique** pour imaginer, structurer 
 
 ## 📱 Technologies envisagées
 
-- Frontend : React Native / Expo
+- Frontend : A définir
 - Backend : Ruby on Rails API ou Node (à définir)
-- Base de données : PostgreSQL ou Firebase
+- Base de données : PostgreSQL
 - Outils collaboratifs : GitHub Projects / Issues
 
 ## 🧑‍💻 Auteur
